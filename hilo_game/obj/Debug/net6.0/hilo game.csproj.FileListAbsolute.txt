@@ -1,0 +1,5 @@
+C:\Users\jackh\Desktop\C#\cse 210\hilo_game\obj\Debug\net6.0\hilo game.csproj.AssemblyReference.cache
+C:\Users\jackh\Desktop\C#\cse 210\hilo_game\obj\Debug\net6.0\hilo game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackh\Desktop\C#\cse 210\hilo_game\obj\Debug\net6.0\hilo game.AssemblyInfoInputs.cache
+C:\Users\jackh\Desktop\C#\cse 210\hilo_game\obj\Debug\net6.0\hilo game.AssemblyInfo.cs
+C:\Users\jackh\Desktop\C#\cse 210\hilo_game\obj\Debug\net6.0\hilo game.csproj.CoreCompileInputs.cache
