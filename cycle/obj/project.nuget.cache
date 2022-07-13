@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KhC5WEJl+oVRK3scfs7A4CwBuefT4JHeeAz6EA2RpudjobvplGe2g2vIt7WZkVWfR8DcDcwYsfJGnxUzyhy4Gw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jackh\\Desktop\\C#\\cse 210\\cycle\\cycle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jackh\\.nuget\\packages\\raylib-cs\\4.0.0.1\\raylib-cs.4.0.0.1.nupkg.sha512",
+    "C:\\Users\\jackh\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
