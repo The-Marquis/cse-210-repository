@@ -1,0 +1,21 @@
+C:\Users\jackh\Desktop\C#\cse 210\Escape from Basement\bin\Debug\net6.0\Escape from Basement.exe
+C:\Users\jackh\Desktop\C#\cse 210\Escape from Basement\bin\Debug\net6.0\Escape from Basement.deps.json
+C:\Users\jackh\Desktop\C#\cse 210\Escape from Basement\bin\Debug\net6.0\Escape from Basement.runtimeconfig.json
+C:\Users\jackh\Desktop\C#\cse 210\Escape from Basement\bin\Debug\net6.0\Escape from Basement.dll
+C:\Users\jackh\Desktop\C#\cse 210\Escape from Basement\bin\Debug\net6.0\Escape from Basement.pdb
+C:\Users\jackh\Desktop\C#\cse 210\Escape from Basement\bin\Debug\net6.0\Raylib-cs.dll
+C:\Users\jackh\Desktop\C#\cse 210\Escape from Basement\bin\Debug\net6.0\runtimes\linux-x64\native\libraylib.so
+C:\Users\jackh\Desktop\C#\cse 210\Escape from Basement\bin\Debug\net6.0\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\jackh\Desktop\C#\cse 210\Escape from Basement\bin\Debug\net6.0\runtimes\win-x64\native\raylib.dll
+C:\Users\jackh\Desktop\C#\cse 210\Escape from Basement\bin\Debug\net6.0\runtimes\win-x86\native\raylib.dll
+C:\Users\jackh\Desktop\C#\cse 210\Escape from Basement\obj\Debug\net6.0\Escape from Basement.csproj.AssemblyReference.cache
+C:\Users\jackh\Desktop\C#\cse 210\Escape from Basement\obj\Debug\net6.0\Escape from Basement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackh\Desktop\C#\cse 210\Escape from Basement\obj\Debug\net6.0\Escape from Basement.AssemblyInfoInputs.cache
+C:\Users\jackh\Desktop\C#\cse 210\Escape from Basement\obj\Debug\net6.0\Escape from Basement.AssemblyInfo.cs
+C:\Users\jackh\Desktop\C#\cse 210\Escape from Basement\obj\Debug\net6.0\Escape from Basement.csproj.CoreCompileInputs.cache
+C:\Users\jackh\Desktop\C#\cse 210\Escape from Basement\obj\Debug\net6.0\Escape from Basement.csproj.CopyComplete
+C:\Users\jackh\Desktop\C#\cse 210\Escape from Basement\obj\Debug\net6.0\Escape from Basement.dll
+C:\Users\jackh\Desktop\C#\cse 210\Escape from Basement\obj\Debug\net6.0\refint\Escape from Basement.dll
+C:\Users\jackh\Desktop\C#\cse 210\Escape from Basement\obj\Debug\net6.0\Escape from Basement.pdb
+C:\Users\jackh\Desktop\C#\cse 210\Escape from Basement\obj\Debug\net6.0\Escape from Basement.genruntimeconfig.cache
+C:\Users\jackh\Desktop\C#\cse 210\Escape from Basement\obj\Debug\net6.0\ref\Escape from Basement.dll

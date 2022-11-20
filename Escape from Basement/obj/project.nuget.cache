@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5FjkmXPtEaLJqtGMvc4yXPyKBEBKEYNT5iJIaVAmfKtzN01Rucd64RbZwrPAQJycX6FCrRQHCCh1rLL0//K8tw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jackh\\Desktop\\C#\\cse 210\\Escape from Basement\\Escape from Basement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jackh\\.nuget\\packages\\raylib-cs\\4.0.0.1\\raylib-cs.4.0.0.1.nupkg.sha512",
+    "C:\\Users\\jackh\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
